@@ -1,0 +1,7 @@
+def main(listw)
+  from itertools import permutations
+  listw = input().split()
+  rev = permutations (listw)
+  print(rev)
+  for i in list(rev):
+      print(i)
