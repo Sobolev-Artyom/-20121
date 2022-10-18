@@ -1,6 +1,6 @@
 def main():
-    pm = (input())
-    if (pm) == (pm)[::-1]:
+    pd = (input())
+    if (pd) == (pd)[::-1]:
         print("True")
     else:
         print("False")
